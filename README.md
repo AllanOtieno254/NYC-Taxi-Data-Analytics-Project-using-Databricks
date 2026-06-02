@@ -16,6 +16,7 @@ In this project, I analyzed the **NYC Taxi Trips Dataset** containing **21,000+ 
 * Trip distribution analysis by distance ranges
 * Interactive dashboard creation & filtering
 
+
 ---
 
 <img width="1166" height="325" alt="Trip Volume by Hour of Day" src="https://github.com/user-attachments/assets/6cda279f-4099-4391-b530-f67838fba6a6" />
