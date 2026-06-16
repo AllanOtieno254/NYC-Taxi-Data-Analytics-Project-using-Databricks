@@ -4,6 +4,7 @@ Excited to share one of the projects I recently worked on while learning and exp
 
 In this project, I analyzed the **NYC Taxi Trips Dataset** containing **21,000+ ride records** from **January–February 2016** to uncover insights about transportation patterns, trip behavior, fares, and geographic activity across New York City.
 
+
 ---
 
 # 🔍 Key Analysis Performed
